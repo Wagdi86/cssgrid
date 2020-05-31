@@ -54,6 +54,8 @@ article{
     color: aliceblue;
     margin-left: 200px;
     position: relative;
-    top: 8%
-    
+    top: 8% 
+}
+th img{
+    border-radius: 2%
 }
