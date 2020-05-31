@@ -56,6 +56,11 @@ article{
     position: relative;
     top: 8% 
 }
+table{
+    background-image: url(../img/Royal.jpg);
+    height: 500px;
+    padding-top: 50px
+}
 th img{
     border-radius: 2%
 }
